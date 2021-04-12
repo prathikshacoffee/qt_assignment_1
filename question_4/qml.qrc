@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+	<file>index.jpeg</file>
+    </qresource>
+    <qresource prefix="/bumsh">
+        <file>bumsh_file.txt</file>
+    </qresource>
+</RCC>
